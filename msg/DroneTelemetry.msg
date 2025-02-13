@@ -1,0 +1,9 @@
+geometry_msgs/PoseStamped pos
+geometry_msgs/PoseStamped vel
+sensor_msgs/NavSatFix gps
+float64 altitude_above_ground
+float64 heading_degrees
+float64 battery_percentage
+string error
+bool is_flying
+bool is_offboard 
