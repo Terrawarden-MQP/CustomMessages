@@ -1,0 +1,2 @@
+geometry_msgs/Point ned_pos
+float64 heading_degrees
