@@ -1,3 +1,7 @@
-float64[] arm_position
-float64[] arm_velocity
+float64 joint1position
+float64 joint2position
+float64 joint3position
+float64 joint1velocity
+float64 joint2velocity
+float64 joint3velocity
 float64 gripper
