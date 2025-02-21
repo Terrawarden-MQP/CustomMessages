@@ -1,2 +1,6 @@
 geometry_msgs/Point ned_pos
 float64 heading_degrees
+float64 max_lin_vel_m_s
+float64 max_z_vel_m_s
+float64 max_ang_vel_deg_s
+float64 max_lin_accel_m_s2
