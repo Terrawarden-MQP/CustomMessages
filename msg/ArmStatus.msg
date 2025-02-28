@@ -4,4 +4,7 @@ float64 joint3position
 float64 joint1velocity
 float64 joint2velocity
 float64 joint3velocity
+float64 eex
+float64 eey
+float64 eez
 float64 gripper
