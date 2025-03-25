@@ -6,4 +6,5 @@ float64 heading_degrees
 float64 battery_percentage
 string error
 bool is_flying
-bool is_offboard 
+bool is_offboard
+bool has_rc_link
