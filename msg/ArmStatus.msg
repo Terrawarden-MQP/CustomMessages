@@ -10,5 +10,5 @@ float64 ee_z
 float64 gripper_position
 bool is_stowed
 bool is_tracking
-bool grip_successful
+bool grasping_object
 string trajectory_mode
