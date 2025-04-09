@@ -4,9 +4,7 @@ float64 joint3_position
 float64 joint1_velocity
 float64 joint2_velocity
 float64 joint3_velocity
-float64 ee_x
-float64 ee_y
-float64 ee_z
+geometry_msgs/Point ee_pos
 float64 gripper_position
 bool is_stowed
 bool is_tracking

@@ -1,6 +1,4 @@
-float64 x
-float64 y
-float64 z
+geometry_msgs/Point goal
 float64 movement_time
 float64 tolerance
 string trajectory_mode
